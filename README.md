@@ -8,8 +8,7 @@
 
 Welcome! 
 
-I'm a Cloud Support and DevOps enthusiast with a background in economics and a passion for automation, scripting, and intentional living.</br>
-I enjoy building scalable systems, refining workflows, and learning emerging technologies that make infrastructure smarter and more efficient.
+I'm a Cloud Support and DevOps enthusiast with a background in economics and a passion for automation, scripting, and intentional living. I enjoy building scalable systems, refining workflows, and learning emerging technologies that make infrastructure smarter and more efficient.
 
 Here you'll find my portfolio and about my journey into tech. </br>
 </br>
